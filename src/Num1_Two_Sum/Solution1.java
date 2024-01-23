@@ -1,8 +1,10 @@
+package Num1_Two_Sum;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Num1_Two_Sum {
+public class Solution1 {
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer,Integer> map = new HashMap<>();
         int[] result = new int[2];

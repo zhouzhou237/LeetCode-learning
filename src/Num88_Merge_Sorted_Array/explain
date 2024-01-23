@@ -1,0 +1,1 @@
+Solution1 is the simplest to write, but the time complexity is too high (because of the use of array.sort), for 2 and 3 the time complexity is about the same, Solution2 uses adding from left to right and Solution3 uses adding from right to left.
