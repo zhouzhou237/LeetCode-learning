@@ -34,7 +34,7 @@ public class Solution2 {
         int[] nums2 = new int[]{2,5,6};
         int m = 3;
         int n = 3;
-        int[] result = merge(nums1,3,nums2,n);
+        int[] result = merge(nums1,m,nums2,n);
         System.out.print(Arrays.toString(result));
 
     }
